@@ -2,8 +2,8 @@
   "name": "@brew-software/react-icons",
   "version": "1.0.1",
   "description": "SVG icons for react apps",
-  "main": "dist/lib/index.js",
-  "types": "dist/lib/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
