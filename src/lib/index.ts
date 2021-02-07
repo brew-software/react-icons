@@ -1,14 +1,15 @@
 export { default as BrandIcon } from "./brand";
-export { default as CartIcon } from './cart';
+export { default as CartIcon } from "./cart";
 export { default as CheckmarkIcon } from "./checkmark";
 export { default as DollarSignIcon } from "./dollarSign";
 export { default as EmailIcon } from "./email";
 export { default as EyeIcon } from "./eye";
 export { default as HeartIcon } from "./heart";
 export { default as LockIcon } from "./lock";
+export { default as MapMarkerIcon } from "./mapMarker";
 export { default as PercentIcon } from "./percent";
 export { default as PlusIcon } from "./plus";
-export { default as SadTearIcon } from './sadTear';
+export { default as SadTearIcon } from "./sadTear";
 export { default as SaveIcon } from "./save";
 export { default as SignOutIcon } from "./signout";
 export { default as StripeIcon } from "./stripe";
