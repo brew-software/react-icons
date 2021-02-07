@@ -8,7 +8,7 @@ import {
   faPhoneSquareAlt as solidSquareAlt,
 } from "@fortawesome/free-solid-svg-icons";
 
-const PercentIcon = createFontawesomeIcon({
+const PhoneIcon = createFontawesomeIcon({
   solid,
   solidAlt,
   solidVolume,
@@ -16,4 +16,4 @@ const PercentIcon = createFontawesomeIcon({
   solidSquareAlt,
 });
 
-export default PercentIcon;
+export default PhoneIcon;
