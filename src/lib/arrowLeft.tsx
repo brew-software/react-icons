@@ -1,5 +1,5 @@
 import {
-  faArrowAltCircleLeft as solidAltCirle,
+  faArrowAltCircleLeft as solidAltCircle,
   faArrowCircleLeft as solidCircle,
   faArrowLeft as solid,
 } from "@fortawesome/free-solid-svg-icons";
@@ -7,7 +7,7 @@ import { createFontawesomeIcon } from "./+fontawesomeIcon";
 
 const ArrowLeft = createFontawesomeIcon({
   solid,
-  solidAltCirle,
+  solidAltCircle,
   solidCircle,
 });
 
