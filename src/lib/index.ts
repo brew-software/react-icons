@@ -8,6 +8,7 @@ export { default as EyeIcon } from "./eye";
 export { default as HeartIcon } from "./heart";
 export { default as LockIcon } from "./lock";
 export { default as MapMarkerIcon } from "./mapMarker";
+export { default as MenuItcon } from "./menu";
 export { default as PercentIcon } from "./percent";
 export { default as PhoneIcon } from "./phone";
 export { default as PlusIcon } from "./plus";
