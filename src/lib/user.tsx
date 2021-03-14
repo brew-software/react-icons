@@ -1,18 +1,22 @@
 import { createFontawesomeIcon } from "./+fontawesomeIcon";
 import {
-	faUser as solidUser,
-	faUserCircle as solidCircle,
+  faUser as solid,
+  faUserCircle as solidCircle,
+  faUserCheck as solidCheck,
+  faUserTimes as solidTimes,
 } from "@fortawesome/free-solid-svg-icons";
 import {
-	faUser as regularUser,
-	faUserCircle as regularCircle,
+  faUser as regular,
+  faUserCircle as regularCircle,
 } from "@fortawesome/free-regular-svg-icons";
 
 const UserIcon = createFontawesomeIcon({
-	solid: solidUser,
-	regular: regularUser,
-	solidCircle: solidCircle,
-	regularCircle: regularCircle,
+  solid,
+  regular,
+  solidCircle,
+  regularCircle,
+  solidCheck,
+  solidTimes,
 });
 
 export default UserIcon;
