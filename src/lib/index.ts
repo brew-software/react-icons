@@ -2,6 +2,7 @@ export { default as ArrorLeft } from "./arrowLeft";
 export { default as BrandIcon } from "./brand";
 export { default as CartIcon } from "./cart";
 export { default as CheckmarkIcon } from "./checkmark";
+export { default as ChevronIcon } from "./chevron";
 export { default as DollarSignIcon } from "./dollarSign";
 export { default as EmailIcon } from "./email";
 export { default as EyeIcon } from "./eye";
