@@ -1,11 +1,19 @@
 import { createFontawesomeIcon } from "./+fontawesomeIcon";
 
-import { faEye as solid } from "@fortawesome/free-solid-svg-icons";
-import { faEye as regular } from "@fortawesome/free-regular-svg-icons";
+import {
+  faEye as solid,
+  faEyeSlash as solidSlash,
+} from "@fortawesome/free-solid-svg-icons";
+import {
+  faEye as regular,
+  faEyeSlash as regularSlash,
+} from "@fortawesome/free-regular-svg-icons";
 
 const EyeIcon = createFontawesomeIcon({
-	solid,
-	regular,
+  solid,
+  solidSlash,
+  regular,
+  regularSlash,
 });
 
 export default EyeIcon;
