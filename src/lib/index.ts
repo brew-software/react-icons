@@ -1,4 +1,4 @@
-export { default as ArrorLeft } from "./arrowLeft";
+export { default as ArrowLeft } from "./arrowLeft";
 export { default as BrandIcon } from "./brand";
 export { default as CartIcon } from "./cart";
 export { default as CheckmarkIcon } from "./checkmark";
