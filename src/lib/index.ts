@@ -8,6 +8,7 @@ export { default as DollarSignIcon } from "./dollarSign";
 export { default as EmailIcon } from "./email";
 export { default as EyeIcon } from "./eye";
 export { default as HeartIcon } from "./heart";
+export { default as InfoIcon } from "./info";
 export { default as LockIcon } from "./lock";
 export { default as MapMarkerIcon } from "./mapMarker";
 export { default as MenuIcon } from "./menu";
